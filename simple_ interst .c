@@ -5,19 +5,19 @@
 
 int main()
 {
-	int p, n, r;
+	int p, n;
 	
-   float si;
+   float r, si;
    
    p = 56;
    n = 36;
-   r = 33;
+   r = 33,5;
    
    /*formula for simple interest */
    
    si = p * n * r / 100;
    
-   printf("%f\n , si");
+   printf("%f\n" , si);
    
    return 0;
 }
