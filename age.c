@@ -8,7 +8,7 @@ int main()
 	
 	switch (age)
 	{
-		case 3:
+		case 1:
 			printf("the age is 3\n");
 			
 		case 13:
